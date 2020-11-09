@@ -1,5 +1,5 @@
-homepage: "https://github.com/precariostecnicos"
-documentation: "https://github.com/precariostecnicos/DecodeBase64"
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/variables/decode-from-base64/"
 versions:
   - sha: 8f19917b21d5289b37b40a3d1c015e0943255f84
     changeNotes: Initial release.
