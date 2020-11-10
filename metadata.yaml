@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/variables/decode-from-base64/"
 versions:
+  # Latest version
+  - sha: c9dd9b9edc258501491d9c6bd38d7a322f9fb61d
+    changeNotes: Improve and update documentation.
+  # Older versions    
   - sha: 8f19917b21d5289b37b40a3d1c015e0943255f84
     changeNotes: Initial release.
